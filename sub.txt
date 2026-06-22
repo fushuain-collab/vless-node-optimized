@@ -1,0 +1,3 @@
+vless://e0240134-0986-4b92-a230-fdc8d1200456@172.66.0.7:443?security=tls&type=ws&host=nfs.kdns.fr&sni=nfs.kdns.fr&path=%2Fvless&encryption=none#优化版-1
+vless://e0240134-0986-4b92-a230-fdc8d1200456@172.66.0.1:443?security=tls&type=ws&host=nfs.kdns.fr&sni=nfs.kdns.fr&path=%2Fvless&encryption=none#优化版-2
+vless://e0240134-0986-4b92-a230-fdc8d1200456@172.66.0.2:443?security=tls&type=ws&host=nfs.kdns.fr&sni=nfs.kdns.fr&path=%2Fvless&encryption=none#优化版-3
